@@ -1,0 +1,52 @@
+.banner{
+background-color: #550b38;
+height:100px;
+}
+.banner-text{
+color: #aea9ac ;
+padding-top:20px;
+padding-left:50%;
+position:absolute;
+transform:transform;
+
+}
+
+.btn-delete{
+background-color: #f6502b;
+}
+.add_task{
+background-color: #b29ba9 ;
+top-padding:80px;
+}
+.card-header{
+background-color: #b29ba9 ;
+}
+.btn-done{
+background-color: #550b38;
+color:#aea9ac;
+}
+.btn-update{
+background-color: #EdBB99;
+color:#550b38;
+}
+.btn-edit{
+background-color:  #530b38;
+color:#aea9ac;
+}
+.card{
+background-color: #f2f0f1 ;
+width:50%;
+}
+.btn-task:hover {
+  background-color:  #ab4f7d ;
+}
+
+
+
+
+
+
+
+
+
+
